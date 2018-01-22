@@ -36,7 +36,7 @@ UI contains two pages:
 Serverside scripts are stored inside "json" and "config" folders
 
 
-##How to add new TEST
+## How to add new TEST
 
 Open your browser and inside address bar type "localhost/phpmyadmin".
 
